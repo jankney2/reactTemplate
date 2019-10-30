@@ -10,7 +10,7 @@ app.use(express.json())
 
 app.use(express.static(`${__dirname}/../build`));
 
-//If this syntax does not work, try the second syntax
+//If this syntax does not work, try the second syntax below
 // massive(DATABASE_STRING).then((db)=>{
     // app.set('db', db)
     //     console.log('db connected')

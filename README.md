@@ -1,3 +1,16 @@
+
+##Setup
+
+this Repo comes with react-redux, react-router-dom, massive, express, dotenv, a css normalize, and other items setup from the get go. fork the repo and npm install or yarn install
+
+
+
+
+
+
+
+## BoilerPlate
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
